@@ -1,0 +1,80 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Material.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="ButtonBarButton" parent="android:Theme.Material.Light.DarkActionBar">
+        <item name="android:layout_width">75dp</item>
+        <item name="android:layout_height">75dp</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:layout_margin">5dp</item>
+    </style>
+
+    <style name="ButtonBarButton.Black">
+        <item name="android:background">#000</item>
+    </style>
+
+    <style name="ButtonBarButton.Red">
+        <item name="android:background">#F00</item>
+    </style>
+
+    <style name="ButtonBarButton.Lime">
+        <item name="android:background">#00ff00</item>
+    </style>
+
+    <style name="ButtonBarButton.Blue">
+        <item name="android:background">#0000ff</item>
+    </style>
+
+    <style name="ButtonBarButton.Yellow">
+        <item name="android:background">#ffff00</item>
+    </style>
+
+    <style name="ButtonBarButton.Cyan">
+        <item name="android:background">#00ffff</item>
+    </style>
+
+    <style name="ButtonBarButton.Magenta">
+        <item name="android:background">#ff00ff</item>
+    </style>
+
+    <style name="ButtonBarButton.Silver">
+        <item name="android:background">#dedede</item>
+    </style>
+
+    <style name="ButtonBarButton.Grey">
+        <item name="android:background">#9b9b9b</item>
+    </style>
+
+    <style name="ButtonBarButton.Maroon">
+        <item name="android:background">#8b0606</item>
+    </style>
+
+
+    <style name="ButtonBarButton.Olive">
+        <item name="android:background">#70a758</item>
+    </style>
+
+    <style name="ButtonBarButton.Green">
+        <item name="android:background">#00d700</item>
+    </style>
+
+    <style name="ButtonBarButton.Purple">
+        <item name="android:background">#ae00ff</item>
+    </style>
+
+    <style name="ButtonBarButton.Teal">
+        <item name="android:background">#27efbd</item>
+    </style>
+
+    <style name="ButtonBarButton.Navy">
+        <item name="android:background">#0d47a1</item>
+    </style>
+
+
+
+
+
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HSV Color Picker</string>
+    <string name="hue_color">Hue Color</string>
+    <string name="hue_label">Hue</string>
+    <string name="saturation_label">Saturation</string>
+    <string name="brightness_label">Brightness</string>
+    <string name="saturation_gradient_content_description">Saturation Gradient</string>
+    <string name="brightness_gradient_content_description">Brightness Gradient</string>
+</resources>
